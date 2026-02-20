@@ -1,73 +1,51 @@
-# Hi, I'm Elony Nevo.
-### AI Full-Stack Engineer • Scalable Systems Architect
+# Hi, I'm Elony Nevo
+### AI Full-Stack Developer | Scalable Web & Mobile & Automation Systems
 
-I build intelligent, scalable software systems.  
-Web platforms. Mobile apps. AI automation.
+I specialize in building eCommerce solutions, scalable web platforms, mobile applications, and AI-powered automation systems.
 
-5+ years building production-ready applications focused on performance, clean architecture, and long-term scalability.
-
----
-
-## What I Do
-
-- AI-powered applications  
-- SaaS platforms  
-- Automation systems  
-- High-performance APIs  
-- Cross-platform mobile apps  
-
-I focus on shipping systems that scale — not just code that works.
+Focused on clean architecture. Performance. Long-term scalability.
 
 ---
 
-# Tech Stack
+## Core Stack
 
-## Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=android,react,flutter,swift,kotlin,java" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react" />
 </p>
 
-## Backend
+---
+
+## Backend & APIs
+
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,express,flask,laravel,nestjs,nodejs,php,python,symfony,wordpress,django" />
+  <img src="https://skillicons.dev/icons?i=nestjs,express,django,flask" />
 </p>
 
-## Frontend
+---
+
+## Databases
+
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
 </p>
 
-## Database
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite" />
-</p>
+---
 
-## Tools & DevOps
+## DevOps & Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,docker,figma,github,gitlab,nginx,postman,visualstudio,vscode,xd" />
+  <img src="https://skillicons.dev/icons?i=docker,azure,git,github,vscode" />
 </p>
 
 ---
 
 ## Engineering Principles
 
-- Clean, modular architecture  
-- Scalable system design  
-- Performance-first mindset  
-- Secure authentication & data handling  
-- Clear communication & reliable delivery  
+- Scalable architecture  
+- Clean, maintainable code  
+- Performance-first systems  
+- AI & automation integration  
 
 ---
 
-## Current Focus
-
-AI integrations  
-Automation workflows  
-SaaS architecture  
-Cloud-ready deployments  
-
----
-
-### Open to serious collaboration.
-If you're building something ambitious — let's connect.
-
+### Building intelligent systems that scale.
