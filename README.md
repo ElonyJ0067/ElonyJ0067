@@ -7,34 +7,58 @@ Focused on clean architecture. Performance. Long-term scalability.
 
 ---
 
-## Core Stack
+## 🚀 Core Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,react,nextjs" />
 </p>
 
 ---
 
-## Backend & APIs
+## 🧠 Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,express,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nestjs,express,django,flask,laravel,php" />
 </p>
 
 ---
 
-## Databases
+## 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,sass" />
 </p>
 
 ---
 
-## DevOps & Tools
+## 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,azure,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,swift,kotlin,java,androidstudio" />
+</p>
+
+---
+
+## 🗄 Databases & Caching
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,firebase" />
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,azure,aws,git,github,gitlab" />
+</p>
+
+---
+
+## 🛠 Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,linux" />
 </p>
 
 ---
