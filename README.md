@@ -18,7 +18,7 @@ Focused on clean architecture. Performance. Long-term scalability.
 ## 🧠 Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,express,django,flask,laravel,php" />
+  <img src="https://skillicons.dev/icons?i=nestjs,express,django,flask,laravel,php,ruby,go,fastapi" />
 </p>
 
 ---
@@ -26,7 +26,7 @@ Focused on clean architecture. Performance. Long-term scalability.
 ## 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,sass" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,sass,vue,angular,chakraui" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Focused on clean architecture. Performance. Long-term scalability.
 ## 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,swift,kotlin,java,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,swift,kotlin,java,androidstudio,xcode" />
 </p>
 
 ---
@@ -50,15 +50,7 @@ Focused on clean architecture. Performance. Long-term scalability.
 ## ☁️ DevOps & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,azure,aws,git,github,gitlab" />
-</p>
-
----
-
-## 🛠 Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,azure,aws,git,github,gitlab,vscode,visualstudio,postman,figma,linux,terraform,kubernetes" />
 </p>
 
 ---
