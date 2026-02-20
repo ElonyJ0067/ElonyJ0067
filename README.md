@@ -50,8 +50,9 @@ Focused on clean architecture. Performance. Long-term scalability.
 ## ☁️ DevOps & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,azure,aws,git,github,gitlab,vscode,visualstudio,postman,figma,linux,terraform,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,azure,git,github,gitlab,vscode,postman,figma,linux" />
 </p>
+
 
 ---
 
