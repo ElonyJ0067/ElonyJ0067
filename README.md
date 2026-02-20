@@ -1,70 +1,73 @@
-# AI Full-Stack Developer  
-### Scalable Web Platforms • Mobile Applications • Intelligent Automation
+# Hi, I'm Elony Nevo.
+### AI Full-Stack Engineer • Scalable Systems Architect
 
-I design and build production-ready software systems that combine scalable architecture, clean engineering, and AI-driven automation.
+I build intelligent, scalable software systems.  
+Web platforms. Mobile apps. AI automation.
 
-With 5+ years of experience, I’ve delivered high-performance solutions for startups and private clients — focusing on reliability, maintainability, and long-term scalability.
-
----
-
-## What I Build
-
-• AI-powered web applications  
-• Automation & workflow systems  
-• Scalable SaaS platforms  
-• Cross-platform mobile applications  
-• Data-driven eCommerce solutions  
-
-My work emphasizes strong system design, performance optimization, and clean, maintainable codebases built for growth.
+5+ years building production-ready applications focused on performance, clean architecture, and long-term scalability.
 
 ---
 
-## Core Expertise
+## What I Do
 
-### AI & Automation
-- LLM integrations & AI-powered features  
-- Intelligent chatbot systems  
-- Business workflow automation  
-- API-driven automation tools  
+- AI-powered applications  
+- SaaS platforms  
+- Automation systems  
+- High-performance APIs  
+- Cross-platform mobile apps  
 
-### Full-Stack Engineering
-- Modern frontend architecture  
-- Robust backend development  
-- RESTful API design & integration  
-- Secure authentication & data management  
-
-### Scalable Systems
-- SaaS platform architecture  
-- Database design & optimization  
-- Performance tuning  
-- Cloud-ready deployments  
+I focus on shipping systems that scale — not just code that works.
 
 ---
 
-## Technology Stack
+# Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+## Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=android,react,flutter,swift,kotlin,java" />
+</p>
+
+## Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,express,flask,laravel,nestjs,nodejs,php,python,symfony,wordpress,django" />
+</p>
+
+## Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue" />
+</p>
+
+## Database
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite" />
+</p>
+
+## Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,figma,github,gitlab,nginx,postman,visualstudio,vscode,xd" />
+</p>
 
 ---
 
-## Engineering Philosophy
+## Engineering Principles
 
-- Clean, maintainable architecture  
-- Performance-first implementation  
+- Clean, modular architecture  
 - Scalable system design  
-- Clear communication and dependable delivery  
-- Solutions built for long-term impact  
+- Performance-first mindset  
+- Secure authentication & data handling  
+- Clear communication & reliable delivery  
 
 ---
 
 ## Current Focus
 
-Building intelligent automation systems and scalable AI-powered applications that help businesses operate more efficiently and grow sustainably.
+AI integrations  
+Automation workflows  
+SaaS architecture  
+Cloud-ready deployments  
 
 ---
 
-If you're building something ambitious — scalable, intelligent, and production-ready — I’m always open to meaningful collaboration.
+### Open to serious collaboration.
+If you're building something ambitious — let's connect.
+
