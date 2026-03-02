@@ -1,5 +1,5 @@
 # Hi, I'm Elony Nevo
-### AI Full-Stack Developer | Scalable Web & Mobile & Automation Systems
+### Web & Automation Expert | UI, APIs, Data Solution
 
 I specialize in building eCommerce solutions, scalable web platforms, mobile applications, and AI-powered automation systems.
 
